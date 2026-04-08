@@ -1,0 +1,2 @@
+[MASTER]
+ignore=__pycache__,.idea,venv,LICENSE,README.md,requirements.txt,spla-bench

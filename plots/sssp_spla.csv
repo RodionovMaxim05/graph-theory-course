@@ -1,0 +1,8 @@
+dataset,spla
+coAuthorsCiteseer,"warm_up=52.21ms, avg=11.42ms, median=11.43ms, stdev=0.03"
+coPapersDBLP,"warm_up=384.37ms, avg=65.98ms, median=65.98ms, stdev=2.48"
+hollywood-2009,"warm_up=1182.54ms, avg=66.36ms, median=66.36ms, stdev=0.17"
+belgium_osm,"warm_up=362.24ms, avg=245.93ms, median=237.55ms, stdev=17.34"
+roadNet-CA,"warm_up=288.75ms, avg=142.35ms, median=142.35ms, stdev=2.75"
+rgg_n_2_22_s0,"warm_up=1600.54ms, avg=936.07ms, median=936.07ms, stdev=2.07"
+road_central,"warm_up=1608.42ms, avg=1012.63ms, median=1012.63ms, stdev=0.95"
