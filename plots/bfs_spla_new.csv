@@ -1,0 +1,10 @@
+dataset,spla
+citationCiteseer,"warm_up=138.98ms, avg=6.48ms, median=6.49ms, stdev=0.03"
+vsp_msc10848,"warm_up=38.49ms, avg=2.22ms, median=2.22ms, stdev=0.01"
+belgium_osm,"warm_up=245.20ms, avg=177.46ms, median=177.07ms, stdev=1.76"
+m14b,"warm_up=58.21ms, avg=10.71ms, median=10.71ms, stdev=0.01"
+delaunay_n21,"warm_up=306.72ms, avg=117.90ms, median=117.90ms, stdev=0.05"
+kron_g500-logn17,"warm_up=156.49ms, avg=35.69ms, median=35.69ms, stdev=2.05"
+adaptive,"warm_up=1274.43ms, avg=892.09ms, median=892.09ms, stdev=0.35"
+coPapersCiteseer,"warm_up=351.30ms, avg=12.24ms, median=12.24ms, stdev=0.02"
+com-Orkut,"warm_up=2391.75ms, avg=52.97ms, median=52.97ms, stdev=0.02"
